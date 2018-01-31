@@ -28,7 +28,7 @@ I'm not planning any big changes unless the project gets popular. However any su
 
 ### License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) file for details.
 
 ### Preview
 ![alt text](https://github.com/exewin/hardware-garage/blob/master/prev01.png)
