@@ -87,7 +87,7 @@ if($_POST)
 <tr><td>Image*:</td><td><input type='text' name="img" placeholder="link" value="<?php if(isset($_POST['img'])){ echo $img; }?>"/></td></tr>
 
 
-<tr><td></td><td><input type="submit" name="submit" value="Dodaj"/></td></tr>
+<tr><td></td><td><input type="submit" name="submit" value="Add"/></td></tr>
 
 </table>
 

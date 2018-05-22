@@ -36,7 +36,7 @@ if($_POST)
 <tr><td colspan=2>Go to edit mode to assembly parts.</td></tr>
 
 
-<tr><td></td><td><input type="submit" name="submit" value="Dodaj"/></td></tr>
+<tr><td></td><td><input type="submit" name="submit" value="Add"/></td></tr>
 
 </table>
 

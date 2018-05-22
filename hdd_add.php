@@ -53,7 +53,7 @@ if($_POST)
 
 
 
-<tr><td></td><td><input type="submit" name="submit" value="Dodaj"/></td></tr>
+<tr><td></td><td><input type="submit" name="submit" value="Add"/></td></tr>
 
 </table>
 
