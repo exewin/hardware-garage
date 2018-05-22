@@ -75,6 +75,13 @@ a:hover
 	overflow-y:scroll;
 }
 
+.choice img
+{
+	padding: 10px;
+	background-color:#333;
+	border: 2px solid #888;
+	border-radius: 5px;
+}
 
 .footer
 {
